@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "metricsdrocess",
+        "uuid": 9373505,
+        "checksum": "0gbjch"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "production"
+    }
+}
